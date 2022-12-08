@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pablolopezlujan01@gmail.com**
 
-- 📄 Thanks to Erasmus+ [I worked at Berlin for my internship](I worked at Berlin for my internship)
+- 📄 Thanks to Erasmus+ I worked at Berlin for my internship I worked at Berlin for my internship
 
 - ⚡ Fun fact **Im good at teamwork, and very precise in front desing processes**
 
