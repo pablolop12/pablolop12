@@ -1,7 +1,6 @@
 <h1 align="center">I'm Pablo✌</h1>
 <h3 align="center">Web Application Student and Full-stack developer</h3>
-
-
+<br/>
 
 - 🌱 I’m currently learning **Web development, and front-end technologies, like Bootstrap and JavaScript**
 
