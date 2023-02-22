@@ -8,7 +8,7 @@
 
 - 📄 Thanks to Erasmus+ **I worked at Berlin for my internship I worked at Berlin for my internship**
 
-- ⚡ Fun fact **Im very precise in front desing processes, I can freak out if everything is not fitting**
+- ⚡ Fun fact **Im very precise in front desing processes, I am not done until everything is not fitting precisely**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
