@@ -1,14 +1,11 @@
 <h1 align="center">I'm Pablo✌</h1>
-<h3 align="center">Web Application Student and Full-stack developer</h3>
+<h3 align="center">Full-Stack developer</h3>
 <br/>
 
-- 🌱 I’m currently learning **Web development, and front-end technologies, like Bootstrap and JavaScript**
+- 🌱 I finished my studies in **Web development, and front-end technologies**
 
 - 📫 How to reach me **pablolopezlujan01@gmail.com**
 
-- 📄 Thanks to Erasmus+ **I worked at Berlin for my internship**
-
-- ⚡ Fun fact **Im very precise in front desing processes, I am not done until everything is not fitting precisely**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
