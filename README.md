@@ -1,22 +1,22 @@
-<h1>Hola 👋, soy Pablo</h1>
-<p>Desarrollador de Aplicaciones Web, usualmente trabajo y disfruto creando proyectos Full-Stack pero estoy en proceso de dar el paso a especializarme en la parte Front-End del desarrollo de código, la cual me parece muy atractica ya que implica creatividad, atención al detalle, y buenas ideas, en lo que me veo muy capaz</p><br>
+<h1>Hi 👋, I'm Pablo</h1>
+<p>Web Application Developer. I usually work on and enjoy creating Full-Stack projects, but I am currently taking steps to specialize in the Front-End side of development, which I find very appealing as it involves creativity, attention to detail, and great ideas—areas where I see myself as highly capable.</p><br>
 
-- 🔭 Actualmende desarrollando [Shortly - Acortador de enlaces](https://shortly.pablolopezlujan.es/)
+- 🔭 Currently developing [Shortly - Time saver link shortener](https://shortly.pablolopezlujan.es/)
 
-- 🌱 Estoy aprendiendo en profundidad **JavaScript/React/Figma/UX-UI**
+- 🌱 I'm deep learning **JavaScript/React/Figma/UX-UI**
 
-- 👨‍💻 Puedes ver mis proyectos en [https://pablolopezlujan.es/](https://pablolopezlujan.es/)
+- 👨‍💻 You can check my projects on production here [https://pablolopezlujan.es/](https://pablolopezlujan.es/)
 
-- 📫 Contacta conmigo **pablolopezlujan01@gmail.com**
+- 📫 Send me an e-mail **pablolopezlujan01@gmail.com**
 
-- 📄 Descarga mi CV aquí [Pablo López Luján CV](https://raw.githubusercontent.com/pablolop12/Portafolio-Angular/master/src/assets/CV%20(ESP)%20-%20Pablo%20L%C3%B3pez%20Luj%C3%A1n.pdf)
+- 📄 Download here my resume [Pablo López Luján CV](https://raw.githubusercontent.com/pablolop12/Portafolio-Angular/master/src/assets/CV%20(ESP)%20-%20Pablo%20L%C3%B3pez%20Luj%C3%A1n.pdf)
 
 <br>
-<h3 align="left">Mis redes Públicas</h3>
+<h3 align="left">My public social media</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pablolopezdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pablolopezdeveloper" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lopez_online" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lopez_online" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Stack tecnológico</h3>
+<h3 align="left">My tech Stack</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
