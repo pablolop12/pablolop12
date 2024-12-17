@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Pablo</h1>
 <p>Web Application Developer. I usually work on and enjoy creating Full-Stack projects, but I am currently taking steps to specialize in the Front-End side of development, which I find very appealing as it involves creativity, attention to detail, and great ideas—areas where I see myself as highly capable.</p><br>
 
-- 🔭 Currently developing [Shortly - Time saver link shortener](https://shortly.pablolopezlujan.es/)
+- 🔭 Currently developing [Nutriweb - Calculate your macros daily](https://nutriweb.pablolopezlujan.es/)
 
 - 🌱 I'm deep learning **JavaScript/React/Figma/UX-UI**
 
